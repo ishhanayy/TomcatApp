@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Welcome to TomcatApp</h1>
-     <p> this is my first CI/CD pipeline project</p>
+     <p> this is my first CI/CD pipeline projects</p>
 </body>
 </html>
 
