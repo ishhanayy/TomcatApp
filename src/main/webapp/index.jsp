@@ -6,7 +6,6 @@
 </head>
 <body>
     <h1>Welcome to TomcatApp</h1>
-    <p>this is test meassage</p>
 </body>
 </html>
 
